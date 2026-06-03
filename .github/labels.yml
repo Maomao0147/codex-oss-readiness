@@ -1,0 +1,28 @@
+- name: bug
+  color: d73a4a
+  description: Something is broken or confusing.
+
+- name: enhancement
+  color: a2eeef
+  description: New or improved behavior.
+
+- name: documentation
+  color: 0075ca
+  description: Documentation, examples, guides, or templates.
+
+- name: good first issue
+  color: 7057ff
+  description: Small, clear, beginner-friendly work.
+
+- name: needs info
+  color: d876e3
+  description: Waiting for reproduction steps, context, or maintainer clarification.
+
+- name: triaged
+  color: 0e8a16
+  description: Reviewed by a maintainer and has a clear next step.
+
+- name: release
+  color: fbca04
+  description: Release preparation, changelog, or version work.
+

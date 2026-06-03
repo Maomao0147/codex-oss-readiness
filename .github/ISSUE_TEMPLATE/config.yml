@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+contact_links:
+  - name: GitHub learning and application preparation notes
+    url: https://github.com/
+    about: Use repository issues for project-specific bugs, feature requests, and maintenance tasks.
+

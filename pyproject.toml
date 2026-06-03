@@ -1,0 +1,19 @@
+[project]
+name = "codex-oss-readiness"
+version = "0.1.0"
+description = "A small checklist CLI for preparing an OSS repository for Codex for OSS applications."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Codex OSS Readiness contributors" }
+]
+
+[project.scripts]
+codex-oss-readiness = "codex_oss_readiness.cli:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
