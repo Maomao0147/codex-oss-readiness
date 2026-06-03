@@ -32,7 +32,7 @@
 | --- | --- | --- | --- |
 | 创建 public 仓库 | GitHub repository URL 可以无登录访问 | Public repo created: `https://github.com/Maomao0147/codex-oss-readiness`. | I learned that a public GitHub repository is the online home for the local project. |
 | 添加 remote | `origin` 指向 GitHub 仓库 | Local `origin` points to `https://github.com/Maomao0147/codex-oss-readiness.git`. | I learned that a remote connects local commits to a GitHub repository. |
-| 推送 main 分支 | GitHub 上能看到最新 README 和 docs |  |  |
+| 推送 main 分支 | GitHub 上能看到最新 README 和 docs | Pushed `main` to `origin/main`; GitHub shows `README.md`. | I learned that `git push` publishes local commits to GitHub. |
 | 设置仓库 About | About、description、topics 清楚说明项目用途 |  |  |
 | 检查公开隐私 | 没有提交 private notes、tokens、OpenAI organization ID | Scanned public files before push; private account fields remain blank or ignored. | I learned to check for secrets before making a repository public. |
 

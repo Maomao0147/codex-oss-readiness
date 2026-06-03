@@ -8,7 +8,7 @@
 - Public repository URL: https://github.com/Maomao0147/codex-oss-readiness
 - Maintainer role: main maintainer
 - Permission evidence: admin
-- First public commit:
+- First public commit: https://github.com/Maomao0147/codex-oss-readiness/commit/ce1efb89586d2dd24f79e2456261dbd22318958f
 
 Expected identity formats:
 
