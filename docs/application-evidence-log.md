@@ -30,13 +30,13 @@ Expected identity formats:
 
 | Evidence type | Target | Link | Notes |
 | --- | --- | --- | --- |
-| Issue | First issue |  |  |
-| Pull request | First merged PR |  |  |
-| Pull request review | First PR review note |  |  |
-| CI run | First passing CI |  |  |
+| Issue | First issue | https://github.com/Maomao0147/codex-oss-readiness/issues/1 | Improve README quick start |
+| Pull request | First merged PR | https://github.com/Maomao0147/codex-oss-readiness/pull/2 | Explain missing-only readiness output |
+| Pull request review | First PR review note | https://github.com/Maomao0147/codex-oss-readiness/pull/2 | Review note: https://github.com/Maomao0147/codex-oss-readiness/pull/2#issuecomment-4608994024 |
+| CI run | First passing CI | https://github.com/Maomao0147/codex-oss-readiness/actions/runs/26863003389 | CI succeeded for PR #2 |
 | CI debugging | First CI debug note |  | Optional |
 | Release | v0.1.0 |  |  |
-| Documentation | README / CONTRIBUTING |  |  |
+| Documentation | README / CONTRIBUTING | https://github.com/Maomao0147/codex-oss-readiness | README and CONTRIBUTING are public |
 
 Expected link formats:
 

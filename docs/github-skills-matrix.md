@@ -40,21 +40,21 @@
 
 | Skill | Acceptance evidence | Evidence link or note | Reflection |
 | --- | --- | --- | --- |
-| 创建 issue | 至少 1 个真实 issue 描述问题或改进 |  |  |
+| 创建 issue | 至少 1 个真实 issue 描述问题或改进 | First issue: `https://github.com/Maomao0147/codex-oss-readiness/issues/1`. | I learned that an issue is a public task card for a repository. |
 | 分诊 issue | issue 有类型标签和优先级标签 |  |  |
-| 从 issue 创建分支 | 分支名能对应 issue 或维护任务 |  |  |
-| 小步提交 | 一个分支只解决一个清楚问题 |  |  |
+| 从 issue 创建分支 | 分支名能对应 issue 或维护任务 | Branch `docs/explain-missing-only` was used for the README quick-start task. | I learned that a branch gives one task a separate workspace before merging. |
+| 小步提交 | 一个分支只解决一个清楚问题 | Commit `cde8714 docs: explain missing-only output` changed only README. | I learned that small commits make review easier. |
 | 关闭已完成 issue | PR merge 后 issue 状态和说明清楚 |  |  |
 
 ## 第 4 级：Pull Request 和 Review
 
 | Skill | Acceptance evidence | Evidence link or note | Reflection |
 | --- | --- | --- | --- |
-| 创建 PR | PR 描述包含变更、测试和关联 issue |  |  |
-| 读 CI 结果 | 能找到 GitHub Actions 的通过或失败步骤 |  |  |
+| 创建 PR | PR 描述包含变更、测试和关联 issue | First PR: `https://github.com/Maomao0147/codex-oss-readiness/pull/2`. | I learned that a PR asks GitHub to review and merge a branch into `main`. |
+| 读 CI 结果 | 能找到 GitHub Actions 的通过或失败步骤 | First passing CI: `https://github.com/Maomao0147/codex-oss-readiness/actions/runs/26863003389`. | I learned that CI checks whether the branch still passes tests before merge. |
 | 处理失败 CI | 至少记录 1 次失败原因和修复方式 |  |  |
-| 写 review note | PR 里有 review、merge note 或自查说明 |  |  |
-| 合并 PR | 至少 2 个 PR 已合并，历史清楚 |  |  |
+| 写 review note | PR 里有 review、merge note 或自查说明 | Review note: `https://github.com/Maomao0147/codex-oss-readiness/pull/2#issuecomment-4608994024`. | I learned to leave a short merge note explaining why a PR is ready. |
+| 合并 PR | 至少 2 个 PR 已合并，历史清楚 | First merged PR: `https://github.com/Maomao0147/codex-oss-readiness/pull/2`. | I learned that merging moves reviewed branch work into the public main branch. |
 
 ## 第 5 级：Release 和申请准备
 
