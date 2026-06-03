@@ -39,6 +39,8 @@ python -m src.codex_oss_readiness --repo . --missing-only
 The output also includes prioritized next actions. For a brand-new learner
 repository, the first suggestions should guide you toward the first commit and
 GitHub remote setup.
+Use `--missing-only` when you want the shortest view of what still needs work.
+It hides completed checks and keeps the focus on the next setup gap.
 
 Audit your GitHub learning evidence:
 
