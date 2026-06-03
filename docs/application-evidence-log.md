@@ -4,10 +4,10 @@
 
 ## 仓库身份
 
-- GitHub username:
-- Public repository URL:
-- Maintainer role: main maintainer / core maintainer
-- Permission evidence: owner / admin / write access / other
+- GitHub username: Maomao0147
+- Public repository URL: https://github.com/Maomao0147/codex-oss-readiness
+- Maintainer role: main maintainer
+- Permission evidence: admin
 - First public commit:
 
 Expected identity formats:

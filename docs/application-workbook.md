@@ -14,10 +14,10 @@
 - Last name:
 - First name:
 - Email associated with ChatGPT account:
-- GitHub username:
-- Public repository URL:
+- GitHub username: Maomao0147
+- Public repository URL: https://github.com/Maomao0147/codex-oss-readiness
 - OpenAI organization ID:
-- Maintainer role: main maintainer / core maintainer
+- Maintainer role: main maintainer
 - ChatGPT account status:
 - Country or region:
 - Areas of interest:
