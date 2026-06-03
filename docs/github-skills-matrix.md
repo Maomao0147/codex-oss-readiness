@@ -22,9 +22,9 @@
 | --- | --- | --- | --- |
 | 查看仓库状态 | 能解释 `git status` 里的 staged、unstaged、untracked | Local status checked before first commit; files are currently untracked. | I learned that untracked files are new files Git can add to the first commit. |
 | 配置提交身份 | 本仓库有正确的 `user.name` 和 `user.email` | Local repo uses `Maomao0147` and GitHub noreply email. | I learned that Git commit identity is configured separately from the GitHub plugin login. |
-| 创建第一次提交 | `main` 分支有 first commit |  |  |
-| 阅读提交历史 | 能用 `git log --oneline` 找到最近 3 次提交 |  |  |
-| 写清楚 commit message | 至少 3 个 commit message 能说明原因和结果 |  |  |
+| 创建第一次提交 | `main` 分支有 first commit | Local first commit: `ce1efb8 Initialize Codex OSS readiness project`. | I learned that a commit saves the current project as a named point in history. |
+| 阅读提交历史 | 能用 `git log --oneline` 找到最近 3 次提交 | Ran `git log --oneline -3` and found `ce1efb8`. | I learned that `git log` shows the commit message and short commit ID. |
+| 写清楚 commit message | 至少 3 个 commit message 能说明原因和结果 | First message: `Initialize Codex OSS readiness project`. | I learned that a good commit message should say what changed, not just say "update". |
 
 ## 第 2 级：公开仓库基础
 
